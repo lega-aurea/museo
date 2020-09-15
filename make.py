@@ -23,7 +23,7 @@ for file in Files:
 
 
 start = "<ul>"
-ite = 31
+ite = 59
 for i in range(ite+1):
     start += "<li><img src=\""+str(i)+".png\"></li>"
 
